@@ -4,12 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4184ac2ce4c78823",
+        "id": "e206fb5b54d018d2",
         "type": "tabs",
-        "dimension": 21.8970736629667,
         "children": [
           {
-            "id": "f4ff72105aafa77d",
+            "id": "241970dc1ce8e124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "区域发展/ocr_text/重点原文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "重点原文"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c0b1473ca4f0f431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb49df57a76cf37",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,81 +37,6 @@
               },
               "icon": "lucide-file-text",
               "title": "区域经济学 马工程"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ebac797db5d3ded3",
-        "type": "tabs",
-        "dimension": 24.217961654894047,
-        "children": [
-          {
-            "id": "97b345b296413a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "区域发展/重点.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "重点"
-            }
-          },
-          {
-            "id": "178ee4f844a75819",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "区域发展/Drawing 2026-01-01 15.36.52.excalidraw.restored.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-01 15.36.52.excalidraw.restored"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7b20d83e7dcfd7a5",
-        "type": "tabs",
-        "dimension": 33.70332996972755,
-        "children": [
-          {
-            "id": "06598bd9f8754f6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "区域发展/习-重点.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "习-重点"
-            }
-          }
-        ]
-      },
-      {
-        "id": "05f2b89d051376f7",
-        "type": "tabs",
-        "dimension": 20.181634712411707,
-        "children": [
-          {
-            "id": "f4a4f70a2ae3c26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "区域发展/09-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-16"
             }
           }
         ]
@@ -127,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "依附理论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +79,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -152,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "808ec57cbce098aa",
@@ -260,18 +204,44 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "06598bd9f8754f6f",
+  "active": "241970dc1ce8e124",
   "lastOpenFiles": [
-    "区域发展/09-16.md",
-    "区域发展/习-重点.md",
-    "区域发展/重点.md",
-    "区域发展/整理后.md",
-    "区域发展/Drawing 2026-01-01 15.36.52.excalidraw.restored.md",
-    "区域发展/Drawing 2026-01-01 15.36.52.excalidraw.md",
-    "计量经济学/未命名 1.md",
-    "计量经济学/Drawing 2026-01-01 16.21.57.excalidraw.md",
-    "计量经济学/未命名.md",
-    "计量经济学/重点.md",
+    "重点原文.pdf",
+    "区域发展/区域经济学重点.md",
+    "区域发展/ocr_text/重点原文.md",
+    "区域发展/ocr_text/page_020.pdf.md",
+    "区域发展/ocr_text/page_012.pdf.md",
+    "区域发展/ocr_text/page_010.pdf.md",
+    "区域发展/ocr_text/page_007.pdf.md",
+    "区域发展/ocr_text/page_005.pdf.md",
+    "区域发展/ocr_text/page_002.pdf.md",
+    "区域发展/ocr_text/page_001.pdf.md",
+    "区域发展/区域经济学复习重点汇总（完整版）.md",
+    "区域发展/ocr_text/page_351.pdf.md",
+    "区域发展/ocr_text/page_350.pdf.md",
+    "区域发展/ocr_text/page_349.pdf.md",
+    "区域发展/ocr_text/page_348.pdf.md",
+    "区域发展/ocr_text/page_347.pdf.md",
+    "区域发展/ocr_text/page_346.pdf.md",
+    "区域发展/ocr_text/page_345.pdf.md",
+    "区域发展/ocr_text/page_344.pdf.md",
+    "区域发展/ocr_text/page_343.pdf.md",
+    "区域发展/ocr_text/page_342.pdf.md",
+    "区域发展/ocr_text/page_341.pdf.md",
+    "区域发展/ocr_text/page_340.pdf.md",
+    "区域发展/ocr_text/page_339.pdf.md",
+    "区域发展/ocr_text/page_338.pdf.md",
+    "区域发展/ocr_text/page_337.pdf.md",
+    "区域发展/ocr_text/page_351.pdf.txt",
+    "区域发展/ocr_text/page_350.pdf.txt",
+    "区域发展/ocr_text/page_349.pdf.txt",
+    "区域发展/ocr_text/page_348.pdf.txt",
+    "区域发展/ocr_text/page_347.pdf.txt",
+    "区域发展/ocr_text/page_346.pdf.txt",
+    "区域发展/ocr_text/page_345.pdf.txt",
+    "区域发展/ocr_text/page_344.pdf.txt",
+    "区域发展/ocr_text/page_343.pdf.txt",
+    "区域发展/ocr_text/page_342.pdf.txt",
     "附件/Pasted Image 20260102141218_264.png",
     "附件/Pasted Image 20260102135443_917.png",
     "附件/Pasted Image 20260102133615_679.png",
@@ -281,32 +251,6 @@
     "附件/Pasted image 20260102085227.png",
     "附件/Pasted image 20260102084244.png",
     "附件/Pasted image 20260102084131.png",
-    "附件/Pasted image 20260102084048.png",
-    "计量经济学/普通最小二乘法.md",
-    "区域发展/区域经济学 马工程.pdf",
-    "区域发展/未命名.md",
-    "区域发展/Drawing 2026-01-01 15.43.03.excalidraw.md",
-    "区域发展/区域经济学复习重点汇总（完整版）.md",
-    "区域发展/09-23.md",
-    "区域发展/区域经济学重点-详细.pdf",
-    "区域发展/区域经济学 马工程-432be8642e02.pdf.qkdownloading",
-    "习思想/背诵逻辑.md",
-    "习思想/背诵笔记.md",
-    "习思想/刘-背诵.md",
-    "习思想/2024习思想重点整理（11，13，14，15章不考）.md",
-    "习思想/24-重点对应.md",
-    "习思想/23新思想概论 .pdf",
-    "附件",
-    "习思想/09-24.md",
-    "习思想/09-28.md",
-    "习思想/10-29.md",
-    "习思想/11-05.md",
-    "习思想/11-12.md",
-    "习思想/10-22.md",
-    "习思想/24-重点对应.md.tmp.15108.1767233645700",
-    "习思想/24-重点对应.md.tmp.15108.1767233358543",
-    "习思想/24-重点对应.md.tmp.15108.1767233220848",
-    "发展经济学",
-    "计量经济学"
+    "附件/Pasted image 20260102084048.png"
   ]
 }

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# OCR temporary files
+块开发笔记/ocr_text/
+块开发笔记/pages/
+块开发笔记/未命名*.base
