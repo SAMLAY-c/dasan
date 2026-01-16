@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区域发展/ocr_text/重点原文.md",
+                "file": "区域发展/中国区域产业结构趋同与趋异现象的特殊性原文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重点原文"
+              "title": "中国区域产业结构趋同与趋异现象的特殊性原文"
             }
           }
         ]
@@ -192,13 +192,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "workspaces:管理工作区布局": false
@@ -206,9 +206,12 @@
   },
   "active": "241970dc1ce8e124",
   "lastOpenFiles": [
+    "区域发展/聚集经济的源泉原文.md",
+    "区域发展/中国区域产业结构趋同与趋异现象的特殊性原文.md",
+    "区域发展/区域合作原则原文.md",
+    "区域发展/ocr_text/重点原文.md",
     "重点原文.pdf",
     "区域发展/区域经济学重点.md",
-    "区域发展/ocr_text/重点原文.md",
     "区域发展/ocr_text/page_020.pdf.md",
     "区域发展/ocr_text/page_012.pdf.md",
     "区域发展/ocr_text/page_010.pdf.md",
@@ -230,8 +233,6 @@
     "区域发展/ocr_text/page_341.pdf.md",
     "区域发展/ocr_text/page_340.pdf.md",
     "区域发展/ocr_text/page_339.pdf.md",
-    "区域发展/ocr_text/page_338.pdf.md",
-    "区域发展/ocr_text/page_337.pdf.md",
     "区域发展/ocr_text/page_351.pdf.txt",
     "区域发展/ocr_text/page_350.pdf.txt",
     "区域发展/ocr_text/page_349.pdf.txt",
@@ -241,7 +242,6 @@
     "区域发展/ocr_text/page_345.pdf.txt",
     "区域发展/ocr_text/page_344.pdf.txt",
     "区域发展/ocr_text/page_343.pdf.txt",
-    "区域发展/ocr_text/page_342.pdf.txt",
     "附件/Pasted Image 20260102141218_264.png",
     "附件/Pasted Image 20260102135443_917.png",
     "附件/Pasted Image 20260102133615_679.png",
